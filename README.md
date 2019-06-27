@@ -9,6 +9,9 @@ The data is then used to generate map with GIS softwares, such as QGIS.
 
 Example :
 
-![alt text](https://raw.githubusercontent.com/Rapout/ChinaWeatherMap/master/Maps/aMax/9-Sep.png?token=AF2BOCI3TQTLWQYJPFULDXK5CUIUI)
 
 Average Maximale Temperatures for each month in China
+
+![alt text](https://raw.githubusercontent.com/Rapout/ChinaWeatherMap/master/Maps/aMax/9-Sep.png?raw=true)
+
+
