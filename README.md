@@ -12,6 +12,21 @@ Example :
 
 Average Maximale Temperatures for each month in China
 
-![alt text](https://github.com/Rapout/ChinaWeatherMap/blob/master/Maps/aMax/5-May.png?raw=true)
+![alt text](https://github.com/Rapout/ChinaWeatherMap/blob/master/Maps/AnimatedMaps/averageMaxTemperature.gif?raw=true)
+
+
+Average Minimale Temperatures for each month in China
+
+![alt text](https://github.com/Rapout/ChinaWeatherMap/blob/master/Maps/AnimatedMaps/averageMinTemperature.gif?raw=true)
+
+
+Highest Temperatures recorded for each month in China
+
+![alt text](https://github.com/Rapout/ChinaWeatherMap/blob/master/Maps/AnimatedMaps/HighestTemperature.gif?raw=true)
+
+
+Lowest Temperatures recorded for each month in China
+
+![alt text](https://github.com/Rapout/ChinaWeatherMap/blob/master/Maps/AnimatedMaps/LowestTemperature.gif?raw=true)
 
 
