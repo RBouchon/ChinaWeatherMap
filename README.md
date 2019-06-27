@@ -12,6 +12,6 @@ Example :
 
 Average Maximale Temperatures for each month in China
 
-![alt text](https://raw.githubusercontent.com/Rapout/ChinaWeatherMap/master/Maps/aMax/9-Sep.png?raw=true)
+![alt text](https://github.com/Rapout/ChinaWeatherMap/blob/master/Maps/aMax/5-May.png?raw=true)
 
 
